@@ -7,7 +7,7 @@ Dieses Repositorium enthält eine Musikdatenbank mit Texten von Hermann Hesse ü
 
 ## Beschreibung
 In der Datenbank sollen Aussagen von Hermann Hesse und seinen Romanfiguren gesammelt werden, die dann über eine graphische Oberfläche durchsucht und ausgewertet werden können.
-Ich habe mich bei der Erstellung für die Programmiersprache Python entschieden, weil damit sehr schnell Prototypen erstellt werden können und mit den Bibliotheken/Schnittstellen *tkinter* und *sqlite3* graphische Oberflächen und Datenbankmanagement leicht realisierbar ist. Zudem ist Python für alle gängigen Betriebssysteme verfügbar und damit plattformunabhängig. Über eine einfache graphische Oberfläche soll der Nutzer Suchbegriffe eingeben können. Die Ergebnisse werden dann anschließend in eine Text-Datei geschrieben (Name: "ergebnisse.txt"). Dort kann man sich die Suchergebnisse anschauen.
+Ich habe mich bei der Erstellung für die Programmiersprache Python entschieden, weil damit sehr schnell Prototypen erstellt werden können und mit den Bibliotheken/Schnittstellen *tkinter* und *sqlite3* graphische Oberflächen und Datenbankmanagement leicht realisierbar sind. Zudem ist Python für alle gängigen Betriebssysteme verfügbar und damit plattformunabhängig. Über eine einfache graphische Oberfläche soll der Nutzer Suchbegriffe eingeben können. Die Ergebnisse werden dann anschließend in eine Text-Datei geschrieben (Name: "ergebnisse.txt"). Dort kann man sich die Suchergebnisse anschauen.
 
 Momentan macht es noch keinen Sinn die Anwendung lokal auszuprobieren, da noch zu wenig Datensätze vorhanden sind (obwohl die Suche bereits funktioniert).
 
@@ -24,8 +24,7 @@ Getrieben wurde ich auch von der Frage, wie Forschungsdaten (oft von den Geistes
 
 ## Ziele
 * eine Datebank mit Musiktextstellen von Hermann Hesse erstellen 
-* ein Programm zum durchförsten der Datenbank erstellen
-* wenn das Python-Programm fertig ist, muss nur noch die Datenbank vom Nutzer regelmäßig akutalisiert werden
+* ein Programm zum Durchforsten der Datenbank erstellen --> wenn das Python-Programm fertig ist, muss nur noch die Datenbank vom Nutzer regelmäßig akutalisiert werden
 * besseres Verständnis kriegen: Wie speichert man Daten, damit diese auch in 20-30 Jahren noch auslesbar sind? Stichwort: Forschungsdatenmanagement
 * Anregungen für ähnliche Projekte erhalten
 * sicherstellen, dass die Datenbank und die Anwendung auch noch in ferner Zukunft läuft und einfach zu installieren bzw. zu bedienen ist
