@@ -1,15 +1,16 @@
 # Hermann Hesse und die Musik
 Dieses Repositorium enthält eine Musikdatenbank mit Texten von Hermann Hesse über die Musik (eigene Aussagen und von fiktiven Erzählpersonen).
 
-*Wichtig*: Die Datenbank befindet sich erst im Aufbau, genauso wie das dazugehörige Python-Programm, mit der die Datenbank komfortabel befragt werden kann.
+**Wichtig**: Die Datenbank befindet sich erst im Aufbau, genauso wie das dazugehörige Python-Programm, mit der die Datenbank komfortabel befragt werden kann.
 
 ## Beschreibung
+
 
 * Export in 'ergebnisse.txt'-Datei
 
 ## Technische Informationen
-* Die Datenbant "hesse-musik.db" ist eine SQLite3-Datenbank.
-* Das graphische Nutzeroberfläche zur Befragung der Datenbank ist in Python (mit tkinter) erstellt worden.
+* Die Datenbank "hesse-musik.db" ist eine SQLite3-Datenbank.
+* Die graphische Nutzeroberfläche zur Befragung der Datenbank ist in Python (mit tkinter) erstellt worden.
 * Die Anwendung besteht aus drei Dateien: der Datenbank (hesse-musik.db), der index.py-Datei und der app.py-Datei. Die index.py-Datei enthält die grundlegenden Elemente für die graphische Nutzeroberfläche und den Start des Programms. In der app.py-Datei sind die Funktionen und Unterprogramme ausgelagert (eventuell werde ich bei entstprechender Größe die zwei Python-Dateien doch wieder zusammenlegen).
 
 
