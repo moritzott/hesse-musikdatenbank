@@ -7,12 +7,9 @@ Dieses Repositorium enthält eine Musikdatenbank mit Texten von Hermann Hesse ü
 
 ## Beschreibung
 In der Datenbank sollen Aussagen von Hermann Hesse und seinen Romanfiguren gesammelt werden, die dann über eine graphische Oberfläche durchsucht und ausgewertet werden können.
-Ich habe mich bei der Erstellung für die Programmiersprache Python entschieden, weil damit sehr schnell Prototypen erstellt werden können und mit den Bibliotheken/Schnittstellen *tkinter* und *sqlite3* graphische Oberflächen und Datenbankmanagement leicht realisierbar ist. Zudem ist Python für alle gängigen Betriebssysteme verfügbar und damit plattformunabhängig. Über eine einfache graphische Oberfläche soll der Nutzer Suchbegriffe eingeben können. Die Ergebnisse werden dann anschließend in eine Text-Datei geschrieben (Name: "ergebnisse.txt"). Dort kann sich die Suchergebnisse anschauen.
+Ich habe mich bei der Erstellung für die Programmiersprache Python entschieden, weil damit sehr schnell Prototypen erstellt werden können und mit den Bibliotheken/Schnittstellen *tkinter* und *sqlite3* graphische Oberflächen und Datenbankmanagement leicht realisierbar ist. Zudem ist Python für alle gängigen Betriebssysteme verfügbar und damit plattformunabhängig. Über eine einfache graphische Oberfläche soll der Nutzer Suchbegriffe eingeben können. Die Ergebnisse werden dann anschließend in eine Text-Datei geschrieben (Name: "ergebnisse.txt"). Dort kann man sich die Suchergebnisse anschauen.
 
-
-Momentan macht es noch keinen Sinn, lokal die Anwendung auszuprobieren, da noch zu wenig Datensätze vorhanden sind (obwohl die Suche bereits funktioniert).
-
-
+Momentan macht es aber noch keinen Sinn die Anwendung lokal auszuprobieren, da noch zu wenig Datensätze vorhanden sind (obwohl die Suche bereits funktioniert).
 
 ## Technische Informationen
 * Die Datenbank "hesse-musik.db" ist eine SQLite3-Datenbank.
@@ -30,6 +27,7 @@ Momentan macht es noch keinen Sinn, lokal die Anwendung auszuprobieren, da noch 
 
 ## Noch zu machen:
 * verständliche Bedienungsanleitung schreiben (LaTeX)
+* wenn Code nicht zu groß: app.py in index.py überführen
 * Datenbank befüllen mit weiteren Textstellen (Buchliste abarbeiten)
 * Suchbegriffe auch in Schlagwörter-Tabelle suchen (SQL-Query erweitern)
 * weitere Filteroption: Nur in bestimmten Werken suchen (Werkliste erstellen und als SQL-Query hinzufügen)
