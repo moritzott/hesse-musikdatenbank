@@ -1,5 +1,6 @@
 # Hermann Hesse und die Musik
 Dieses Repositorium enthält eine Musikdatenbank mit Texten von Hermann Hesse über die Musik (eigene Aussagen und von fiktiven Erzählpersonen).
+
 ![Beispiel](./img/hesse-beispiel.png)
 
 **Wichtig**: Die Datenbank befindet sich erst im Aufbau, genauso wie das dazugehörige Python-Programm, mit der die Datenbank komfortabel befragt werden kann.
@@ -26,7 +27,7 @@ Dieses Repositorium enthält eine Musikdatenbank mit Texten von Hermann Hesse ü
 ## Noch zu machen:
 * verständliche Bedienungsanleitung schreiben (LaTeX)
 * Datenbank befüllen mit weiteren Textstellen (Buchliste abarbeiten)
-* Suchwörter auch in Schlagwörter suchen (SQL-Query erweitern)
+* Suchbegriffe auch in Schlagwörter-Tabelle suchen (SQL-Query erweitern)
 * weitere Filteroption: Nur in bestimmten Werken suchen (Werkliste erstellen und als SQL-Query hinzufügen)
 * Datierungssuche (von ... bis ...) funktioniert noch nicht
 * nach Erstellen einer 'ergebnisse.txt'-Datei einen Schalter anbieten, zum einfachen Öffnen des Verzeichnisses
