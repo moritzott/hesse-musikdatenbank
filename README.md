@@ -32,7 +32,7 @@ Getrieben wurde ich auch von der Frage, wie Forschungsdaten (oft von den Geistes
 * meine Python/tkinter/SQLite-Kenntnisse am Köcheln halten
 
 ## Noch zu machen:
-* verständliche Bedienungsanleitung schreiben (LaTeX)
+* verständliche Bedienungsanleitung schreiben (LaTeX / im Ordner "doc")
 * wenn Code nicht zu groß: app.py in index.py überführen
 * Datenbank befüllen mit weiteren Textstellen (Buchliste abarbeiten)
 * Suchbegriffe auch in Schlagwörter-Tabelle suchen (SQL-Query erweitern)
