@@ -34,9 +34,7 @@ Getrieben wurde ich auch von der Frage, wie Forschungsdaten (oft von den Geistes
 * verständliche Bedienungsanleitung schreiben (LaTeX / im Ordner "doc")
 * wenn Code nicht zu groß: app.py in index.py überführen
 * Datenbank befüllen mit weiteren Textstellen (Buchliste abarbeiten)
-* Suchbegriffe auch in Schlagwörter-Tabelle suchen (SQL-Query erweitern)
 * weitere Filteroption: Nur in bestimmten Werken suchen (Werkliste erstellen und als SQL-Query hinzufügen)
-* Datierungssuche (von ... bis ...) funktioniert noch nicht
 * nach Erstellen einer 'ergebnisse.txt'-Datei einen Schalter anbieten zum einfachen Öffnen des Verzeichnisses
 * automatische Umbenennung der 'ergebnisse.txt'-Datei, falls schon eine existiert; momentan wird überschrieben
 * Export der Suchergebnisse innerhalb eines Anwendungsfensters besser oder in eine HTML-Datei? (bisher in .txt-Datei)
