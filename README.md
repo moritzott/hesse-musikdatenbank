@@ -7,7 +7,7 @@ Dieses Repositorium enthält eine Musikdatenbank mit Texten von Hermann Hesse ü
 
 ## Beschreibung
 In der Datenbank sollen Aussagen von Hermann Hesse und seinen Romanfiguren gesammelt werden, die dann über eine graphische Oberfläche durchsucht und ausgewertet werden können.
-Ich habe mich bei der Erstellung für die Programmiersprache Python entschieden, weil damit sehr schnell Prototypen erstellt werden können und mit den Bibliotheken/Schnittstellen *tkinter* und *sqlite3* graphische Oberflächen und Datenbankmanagement leicht realisierbar sind. Zudem ist Python für alle gängigen Betriebssysteme verfügbar und damit plattformunabhängig. Über eine einfache graphische Oberfläche soll der Nutzer Suchbegriffe eingeben können. Die Ergebnisse werden dann anschließend in eine Text-Datei geschrieben (Name: "ergebnisse.txt"). Dort kann man sich die Suchergebnisse anschauen.
+Ich habe mich bei der Erstellung für die Programmiersprache Python entschieden, weil damit sehr schnell Prototypen erstellt werden können und mit den Bibliotheken/Schnittstellen *tkinter* und *sqlite3* graphische Oberflächen und Datenbankmanagement leicht realisierbar sind. Zudem ist Python für alle gängigen Betriebssysteme verfügbar und damit plattformunabhängig. Über eine einfache graphische Oberfläche soll der Nutzer Suchbegriffe eingeben können. Die Ergebnisse werden dann anschließend in eine Text-Datei geschrieben (Name: "ergebnisse-[Datum+Uhrzeit].txt"). Dort kann man sich die Suchergebnisse anschauen.
 
 Momentan macht es noch keinen Sinn die Anwendung lokal auszuprobieren, da noch zu wenig Datensätze vorhanden sind (obwohl die Suche bereits funktioniert).
 
@@ -40,7 +40,7 @@ Getrieben wurde ich auch von der Frage, wie Forschungsdaten (oft von den Geistes
 
 ## Werkliste und Stand der Datenbank
 * [x] Ausgewählte Gedichte Teil I
-* [ ] Ausgewhählte Gedichte Teil II
+* [ ] Ausgewählte Gedichte Teil II
 * [x] Die Morgenlandfahrt
 * [x] Peter Camenzind
 * [ ] Der Europäer
