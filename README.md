@@ -19,7 +19,7 @@ Getrieben wurde ich auch von der Frage, wie Forschungsdaten (oft von den Geistes
 ## Technische Informationen
 * Die Datenbank "hesse-musik.db" ist eine SQLite3-Datenbank.
 * Die graphische Nutzeroberfläche zur Befragung der Datenbank ist in Python (mit tkinter) erstellt worden.
-* Die Anwendung besteht aus drei Dateien: der Datenbank (hesse-musik.db), der index.py-Datei und der app.py-Datei. Die index.py-Datei enthält die grundlegenden Elemente für die graphische Nutzeroberfläche und den Start des Programms. In der app.py-Datei sind die Funktionen und Unterprogramme ausgelagert (eventuell werde ich bei entstprechender Größe die zwei Python-Dateien doch wieder zusammenlegen).
+* Die Anwendung besteht aus drei Dateien: der Datenbank (hesse-musik.db), der index.py-Datei und der app.py-Datei. Die index.py-Datei enthält die grundlegenden Elemente für die graphische Nutzeroberfläche und den Start des Programms. In der app.py-Datei sind die Funktionen und Unterprogramme ausgelagert.
 
 
 ## Ziele
@@ -32,7 +32,6 @@ Getrieben wurde ich auch von der Frage, wie Forschungsdaten (oft von den Geistes
 
 ## Noch zu machen:
 * verständliche Bedienungsanleitung schreiben (LaTeX / im Ordner "doc")
-* wenn Code nicht zu groß: app.py in index.py überführen
 * Datenbank befüllen mit weiteren Textstellen (Werkliste abarbeiten)
 * weitere Filteroption: Nur in bestimmten Werken suchen (Werkliste erstellen und als SQL-Query hinzufügen)
 * nach Erstellen einer 'ergebnisse.txt'-Datei einen Schalter anbieten zum einfachen Öffnen des Verzeichnisses
