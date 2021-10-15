@@ -39,8 +39,8 @@ Getrieben wurde ich auch von der Frage, wie Forschungsdaten (oft von den Geistes
 * zum Abschluss des Python-Programmes: einfache Installationsdateien für Windows- MacOS- und Linux-Nutzer erstellen
 
 ## Werkliste und Stand der Datenbank
-* [x] Ausgewählte Gedichte Teil I
-* [ ] Ausgewählte Gedichte Teil II
+* [x] Gedichte Teil I
+* [ ] Gedichte Teil II
 * [x] Die Morgenlandfahrt
 * [x] Peter Camenzind
 * [ ] Der Europäer
