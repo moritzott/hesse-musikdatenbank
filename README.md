@@ -34,8 +34,7 @@ Getrieben wurde ich auch von der Frage, wie Forschungsdaten (oft von den Geistes
 * verständliche Bedienungsanleitung schreiben (LaTeX / im Ordner "doc")
 * Datenbank befüllen mit weiteren Textstellen (Werkliste abarbeiten)
 * weitere Filteroption: Nur in bestimmten Werken suchen (Werkliste erstellen und als SQL-Query hinzufügen)
-* nach Erstellen einer 'ergebnisse.txt'-Datei einen Schalter anbieten zum einfachen Öffnen des Verzeichnisses
-* Export der Suchergebnisse innerhalb eines Anwendungsfensters besser oder in eine HTML-Datei? (bisher in .txt-Datei)
+* Export der Suchergebnisse in eine HTML-Datei? (bisher in .txt-Datei)
 * zum Abschluss des Python-Programmes: einfache Installationsdateien für Windows- MacOS- und Linux-Nutzer erstellen
 
 ## Werkliste und Stand der Datenbank
