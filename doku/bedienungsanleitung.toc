@@ -1,0 +1,15 @@
+\babel@toc {ngerman}{}
+\contentsline {section}{\numberline {1}Einleitung}{4}%
+\contentsline {subsection}{\numberline {1.1}Beschreibung}{4}%
+\contentsline {subsection}{\numberline {1.2}Motivation}{4}%
+\contentsline {subsection}{\numberline {1.3}Technische Informationen}{4}%
+\contentsline {subsection}{\numberline {1.4}Ziele}{4}%
+\contentsline {subsection}{\numberline {1.5}Werkliste und Stand der Datenbank}{5}%
+\contentsline {section}{\numberline {2}Bedienung der Anwendung}{5}%
+\contentsline {subsection}{\numberline {2.1}Installation}{6}%
+\contentsline {subsection}{\numberline {2.2}Programmstart}{6}%
+\contentsline {subsection}{\numberline {2.3}Bedienung des Programms}{6}%
+\contentsline {subsection}{\numberline {2.4}Mit den Ergebnissen arbeiten}{6}%
+\contentsline {section}{\numberline {3}Erweiterungen}{7}%
+\contentsline {subsection}{\numberline {3.1}Programmerweiterungen}{7}%
+\contentsline {subsection}{\numberline {3.2}Die Datenbank selbst erweitern}{7}%
