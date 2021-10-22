@@ -7,7 +7,7 @@ Dieses Repositorium enthält eine Musikdatenbank mit Texten von Hermann Hesse ü
 
 ## Beschreibung
 In der Datenbank sollen Aussagen von Hermann Hesse und seinen Romanfiguren gesammelt werden, die dann über eine graphische Oberfläche durchsucht und ausgewertet werden können.
-Ich habe mich bei der Erstellung für die Programmiersprache Python entschieden, weil damit sehr schnell Prototypen erstellt werden können und mit den Bibliotheken/Schnittstellen *tkinter* und *sqlite3* graphische Oberflächen und Datenbankmanagement leicht realisierbar sind. Zudem ist Python für alle gängigen Betriebssysteme verfügbar und damit plattformunabhängig. Über eine einfache graphische Oberfläche soll der Nutzer Suchbegriffe eingeben können. Die Ergebnisse werden dann anschließend in eine Text-Datei geschrieben (Name: "ergebnisse-[Datum+Uhrzeit].txt"). Die Textdateien werden im Verzeichnis *ergebnisse* gespeichert. Dort kann man sich die Suchergebnisse anschauen.
+Ich habe mich bei der Erstellung für die Programmiersprache Python entschieden, weil damit sehr schnell Prototypen erstellt werden können und mit den Bibliotheken/Schnittstellen *tkinter* und *sqlite3* graphische Oberflächen und Datenbankmanagement leicht realisierbar sind. Zudem ist Python für alle gängigen Betriebssysteme verfügbar und damit plattformunabhängig. Über eine einfache graphische Oberfläche soll der Nutzer Suchbegriffe eingeben können. Die Ergebnisse werden dann anschließend in eine Text-Datei geschrieben (Name: "ergebnisse-[Datum+Uhrzeit].txt"). Die Textdateien werden im Ordner *ergebnisse* gespeichert. Dort kann man sich die Suchergebnisse anschauen.
 
 
 ## Motivation
@@ -16,9 +16,9 @@ Getrieben wurde ich auch von der Frage, wie Forschungsdaten (oft von den Geistes
 
 
 ## Technische Informationen
-* Die Datenbank "hesse-musik.db" ist eine SQLite3-Datenbank. Sie befindet sich im Verzeichnis *DB*
+* Die Datenbank "hesse-musik.db" ist eine SQLite3-Datenbank. Sie befindet sich im Ordner *DB*
 * Die graphische Nutzeroberfläche zur Befragung der Datenbank ist in Python (mit tkinter) erstellt worden.
-* Die index.py-Datei enthält die grundlegenden Elemente für die graphische Nutzeroberfläche und den Start des Programms. Im Verzeichnis *utils* sind in der app.py-Datei die Funktionen und Unterprogramme ausgelagert.
+* Die index.py-Datei enthält die grundlegenden Elemente für die graphische Nutzeroberfläche und den Start des Programms. Im Ordner *utils* sind in der app.py-Datei die Funktionen und Unterprogramme ausgelagert.
 
 
 ## Ziele
@@ -41,7 +41,7 @@ Getrieben wurde ich auch von der Frage, wie Forschungsdaten (oft von den Geistes
 * [ ] Gedichte Teil II
 * [x] Die Morgenlandfahrt
 * [x] Peter Camenzind
-* [x] Narziss und Goldmund
+* [x] Narziß und Goldmund
 * [ ] Der Europäer
 * [ ] Demian
 * [ ] Unterm Rad
